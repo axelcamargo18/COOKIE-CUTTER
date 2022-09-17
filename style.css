@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(96, 96, 235);
+}
+
+#cookie {
+  width: 200px;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
