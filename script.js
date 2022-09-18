@@ -1,6 +1,6 @@
 // var bakeryWelcome = prompt("Welcome to the bakery ");
 
-document.write("Hope you like cookies");
+// /
 
 let clicks = 0;
 

@@ -4,9 +4,25 @@ body {
 
 #cookie {
   width: 200px;
+
+  display: flex;
+  margin: auto;
 }
 
 h1,
 h3 {
   text-align: center;
+}
+
+p {
+  width: 100px;
+
+  margin: auto;
+}
+
+button {
+  margin: auto;
+  width: 100px;
+  display: flex;
+  align-items: center;
 }
